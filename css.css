@@ -1,0 +1,19 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+#team1{
+flex: 1; 
+background-color: red;
+}
+#team2{
+flex:1;
+background-color: blue;
+}
+img{
+    border-radius: 50px;
+}
+#underTable{
+    text-align: center;
+}
